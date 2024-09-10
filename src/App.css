@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+form div{
+  margin-top:5px;
+}
+form input{
+  outline:none;
+  border:1px solid rgb(14, 3, 143);
+  border-radius: 3px;
+}
+
+table{
+  width: 1000px;
+  border-collapse: collapse;
+}
+table, tr,th, td{
+  border:1px solid gray;
+  padding: 3px;
+}
